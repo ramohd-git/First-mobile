@@ -12,3 +12,9 @@ xcuserdata/
 
 # macOS
 .DS_Store
+
+# Python
+__pycache__/
+.venv/
+.pytest_cache/
+agent/tasks.json

@@ -35,6 +35,7 @@ FirstMobile/
   Views/                 SwiftUI screens and components
   Assets.xcassets        App icon and accent color
 FirstMobileTests/        Unit tests (Swift Testing)
+agent/                   A Python AI agent that manages a to-do list (see agent/README.md)
 ```
 
 The project uses Xcode 16 folder-synchronized groups, so any file you add to
